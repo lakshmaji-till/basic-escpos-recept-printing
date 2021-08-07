@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <align mode="center">
+        <text-line size="2:0">{{title}}</text-line>
+    </align>
+    <line-feed />
+
+    <align mode="right">
+        <text-line size="1:0">{{date}}</text-line>
+    </align>
+
+    <line-feed />
+
+    <paper-cut />
+</document>

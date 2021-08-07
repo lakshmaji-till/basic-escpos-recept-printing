@@ -1,0 +1,12 @@
+{
+  "name": "receipt_printing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@tillpos/xml-escpos-helper": "^0.2.2"
+  },
+  "scripts": {
+    "print": "node ./example.js"
+  }
+}
